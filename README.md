@@ -14,7 +14,7 @@ Distributed Systems Semester Project
 5. The models folder contains the classes with the student details, the GUI form and the GUI class.
 6. When the client code has run, A GUI is presented prompting the user to fill in the details.
 7. The details can be sent in batches as defined in the question, i.e,. sending the details separately and results are displayed on the terminal.
-8. The details can also be sent all at once and the results are displayed on the terminal to show that the server works as expected.
+8. The details can also be sent all at once by clicking the "Send Everything" button and the results are displayed on the terminal to show that the server works as expected.
 9. When an error occurs, the client will also be notified.
 
 # Screenshots
